@@ -1,10 +1,8 @@
 
 # React Application which using Google Authentication
 
-Login with google for your site
-
 ## Step1:
-    login to in https://console.cloud.google.com/
+    login to in https://console.cloud.google.com/ with your google credentials
 
 ## Step2:
     Create a project with name
@@ -15,7 +13,7 @@ Login with google for your site
     - Give support email
     - give developer email
     - next 
-    - add user email - which need to use for login
+    - add user email - which need to use for login, Here we can add many users also
     - save 
 
 ## Step4:
@@ -42,7 +40,7 @@ Login with google for your site
     - And also i used Meterial UI
 
 ## Step8:
-    - Full reference here.  [react-google-login] (https://www.npmjs.com/package/react-google-login)
+    - Full reference here.  https://www.npmjs.com/package/react-google-login
 
 
 ## Test your application:
